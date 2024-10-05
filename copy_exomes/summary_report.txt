@@ -1,0 +1,49 @@
+Organism chicken, discovered by Rivet, has a diameter of 26 mm, and is from the environment Sweden.
+The list of genes can be found in: ./exomesCohort/chicken_postcrispr.fasta
+
+The first sequence of chicken is:
+>gene57
+ATGCTTTTTTTTCTTCTTTCTCCGACCACTCGCCTAATCTTCCTATCATACATATACTACATCTTCCCCTTCAACCTTCACTCCCCCCCACAAAATTTTTTTTTCTTCATCCAACTTTTACCTTTTAACAACATTACATATTAACTCCCATCCTATTACGGCATTATAA
+
+Organism dromedary, discovered by Forness, has a diameter of 30 mm, and is from the environment New Jersey.
+The list of genes can be found in: ./exomesCohort/dromedary_postcrispr.fasta
+
+The first sequence of dromedary is:
+None
+
+
+Organism fox, discovered by Vanderburg, has a diameter of 26 mm, and is from the environment Sweden.
+The list of genes can be found in: ./exomesCohort/fox_postcrispr.fasta
+
+The first sequence of fox is:
+>gene57
+AATGGCTACCACATCTCCTACGCTTCTAACCATCTATCTCTTTTCATTTATATTCTATACCATCTTTTTACACTTCCAACCTTTTTTTTTACACTTCTACTTTATATATCTCCACTCTATTCATTACCCCCACCTACATTTTTACACTTCGTTTTTTTACACTTCGTCAATTGACTTTCC
+
+Organism goat, discovered by Gorham, has a diameter of 24 mm, and is from the environment New Jersey.
+The list of genes can be found in: ./exomesCohort/goat_postcrispr.fasta
+
+The first sequence of goat is:
+None
+
+
+Organism gopher, discovered by Mccafferty, has a diameter of 21 mm, and is from the environment Florida.
+The list of genes can be found in: ./exomesCohort/gopher_postcrispr.fasta
+
+The first sequence of gopher is:
+>gene53
+AATGGTCTCACTCCTCCTTACATACCAAATCCCTTATGGTTATTAACTCACAAGCCACCTCCAATTTTAAAATCTTCACCTCATGTCTCTACATTCCCCTCCAAATCACAATTTTTTTTTTTTATTTAATTCATCC
+
+Organism gorilla, discovered by Landey, has a diameter of 30 mm, and is from the environment Florida.
+The list of genes can be found in: ./exomesCohort/gorilla_postcrispr.fasta
+
+The first sequence of gorilla is:
+>gene271
+ATGTTGACTGCTTCTAACATTTTTACACTTCATGGTTCCCTTCCTATTACAACCAATTACACGTTTTATACCTCAACACTACCTTAATTATTTTCTTATTTTTACACTTCTCTTTTTTTTTTTTACACTTCTTAAAAACCTTACCCACTAATTTTCAATTTTTACACTTCCTTTTTTTTTACACTTCTTTCA
+
+Organism lamb, discovered by Kesner, has a diameter of 28 mm, and is from the environment New Jersey.
+The list of genes can be found in: ./exomesCohort/lamb_postcrispr.fasta
+
+The first sequence of lamb is:
+>gene104
+ATGCAACTACTAATCTAATCCCTAACTCATCCTAATACACTCTCACCCTATGGACCAGACTTATCTATCACTTTCCACTTTTTATTCACTTTTTTTTCTTCCACTCCGACATCTTTTTTTTTCTTCATAACCCATCTTAACTAATTATC
+
